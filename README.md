@@ -30,17 +30,24 @@ How to Run
 
 Sample Output
 
-"Stock Trading Platform Output" (screenshots/StockTradingPlatform.png)
+"Stock Trading Platform Output" (screenshots/stpoutput.png)
 
 Project Structure
 
 CodeAlpha_StockTradingPlatform
 │
 ├── src
-│   └── ...
+│   ├── DataManager.java
+│   ├── Holding.java
+│   ├── Portfolio.java
+│   ├── Stock.java
+│   ├── StockMarket.java
+│   ├── Stock Trading Platform.java
+│   ├── Transaction.java
+│   └── User.java
 │
 ├── screenshots
-│   └── StockTradingPlatform.png
+│   └── stpoutput.png
 │
 └── README.md
 
