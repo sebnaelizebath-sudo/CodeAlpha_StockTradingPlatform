@@ -32,7 +32,7 @@ The application allows users to view stock details, buy and sell stocks, manage 
 
 ## Sample Output
 
-![Stock Trading Platform Output] (screenshots/stpoutput.png)
+![Stock Trading Platform Output](screenshots/stpoutput.png)
 
 ## Project Structure
 
